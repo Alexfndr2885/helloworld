@@ -8,6 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alexandr &lt;sasha.rusanov.85@bk.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662662435183</updated>
-      <workItem from="1662662442490" duration="5351000" />
+      <workItem from="1662662442490" duration="7036000" />
     </task>
     <task id="LOCAL-00001" summary="начальный коммит">
       <created>1662719132821</created>
@@ -66,7 +71,49 @@
       <option name="project" value="LOCAL" />
       <updated>1662719460590</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="начальный коммит">
+      <created>1662720327386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662720327386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="начальный коммит">
+      <created>1662720526695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662720526695</updated>
+    </task>
+    <task id="LOCAL-00005" summary="начальный коммит">
+      <created>1662721060596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721060596</updated>
+    </task>
+    <task id="LOCAL-00006" summary="начальный коммит">
+      <created>1662721066622</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721066622</updated>
+    </task>
+    <task id="LOCAL-00007" summary="начальный коммит">
+      <created>1662721072080</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721072080</updated>
+    </task>
+    <task id="LOCAL-00008" summary="начальный коммит">
+      <created>1662721233944</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721233944</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
