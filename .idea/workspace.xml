@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cb9cdc8-68a1-4233-b1e1-a89841e6d85e" name="Changes" comment="начальный коммит" />
+    <list default="true" id="2cb9cdc8-68a1-4233-b1e1-a89841e6d85e" name="Changes" comment="начальный коммит">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Irina/IdeaProjects/helloworld",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -55,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662662435183</updated>
-      <workItem from="1662662442490" duration="7405000" />
+      <workItem from="1662662442490" duration="8408000" />
     </task>
     <task id="LOCAL-00001" summary="начальный коммит">
       <created>1662719132821</created>
@@ -120,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662722217210</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="начальный коммит">
+      <created>1662722386357</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662722386357</updated>
+    </task>
+    <task id="LOCAL-00011" summary="начальный коммит">
+      <created>1662722618802</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662722618802</updated>
+    </task>
+    <task id="LOCAL-00012" summary="начальный коммит">
+      <created>1662722626162</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662722626162</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
