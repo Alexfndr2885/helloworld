@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cb9cdc8-68a1-4233-b1e1-a89841e6d85e" name="Changes" comment="начальный коммит" />
+    <list default="true" id="2cb9cdc8-68a1-4233-b1e1-a89841e6d85e" name="Changes" comment="начальный коммит">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662662435183</updated>
-      <workItem from="1662662442490" duration="8758000" />
+      <workItem from="1662662442490" duration="9802000" />
     </task>
     <task id="LOCAL-00001" summary="начальный коммит">
       <created>1662719132821</created>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662723337527</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="начальный коммит">
+      <created>1662733016316</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662733016316</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
